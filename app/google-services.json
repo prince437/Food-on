@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "438939194517",
+    "project_id": "dhavavale",
+    "storage_bucket": "dhavavale.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438939194517:android:d0284999af2f1d3e9c379c",
+        "android_client_info": {
+          "package_name": "com.food_on.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438939194517-ls1e8sannkdr8e1emuv73do2j2u0bf8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp6N7d-M1EMpX9F6bahd_EObRs1-8cztw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438939194517-ls1e8sannkdr8e1emuv73do2j2u0bf8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
